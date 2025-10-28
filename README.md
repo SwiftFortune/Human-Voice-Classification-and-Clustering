@@ -157,5 +157,3 @@ joblib.dump(scaler, "voice_prediction.pkl")
 Data Science Enthusiast | Machine Learning Developer
 
 ---
-
-⭐ If you found this project helpful, please give it a **star** on GitHub!
